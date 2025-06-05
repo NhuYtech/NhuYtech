@@ -4,7 +4,8 @@
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Hey <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30" /> What's up?</h1>
+
 <p align="left">Hi, my name is Nhu Y. I'm currently a university student based in Can Tho, Vietnam. </p>
 
 ###  💫 About Me:
